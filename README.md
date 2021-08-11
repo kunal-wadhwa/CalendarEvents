@@ -25,7 +25,7 @@ Then, add the library to your module build.gradle
 
 ```
 dependencies {
-
+    implementation 'com.github.kunal-wadhwa:CalendarEvents:latest.version'
 }
 ```
 
